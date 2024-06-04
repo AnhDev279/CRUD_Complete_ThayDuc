@@ -1,8 +1,8 @@
 <?php 
 
-namespace Ductv44\PhpOop\Models;
+namespace Anhhh\CrudGhepGiaoDien\Models;
 
-use Ductv44\PhpOop\Commons\Model;
+use Anhhh\CrudGhepGiaoDien\Commons\Model;
 
 class Category extends Model
 {

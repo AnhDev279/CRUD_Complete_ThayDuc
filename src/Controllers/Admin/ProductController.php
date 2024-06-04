@@ -1,11 +1,11 @@
 <?php
 
-namespace Ductv44\PhpOop\Controllers\Admin;
+namespace Anhhh\CrudGhepGiaoDien\Controllers\Admin;
 
-use Ductv44\PhpOop\Commons\Controller;
-use Ductv44\PhpOop\Commons\Helper;
-use Ductv44\PhpOop\Models\Category;
-use Ductv44\PhpOop\Models\Product;
+use Anhhh\CrudGhepGiaoDien\Commons\Controller;
+use Anhhh\CrudGhepGiaoDien\Commons\Helper;
+use Anhhh\CrudGhepGiaoDien\Models\Category;
+use Anhhh\CrudGhepGiaoDien\Models\Product;
 use Rakit\Validation\Validator;
 
 class ProductController extends Controller

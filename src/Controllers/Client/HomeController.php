@@ -1,12 +1,12 @@
 <?php
 
-namespace Ductv44\PhpOop\Controllers\Client;
+namespace Anhhh\CrudGhepGiaoDien\Controllers\Client;
 
-use Ductv44\PhpOop\Commons\Controller;
+use Anhhh\CrudGhepGiaoDien\Commons\Controller;
 class HomeController extends Controller
 {
     public function index() {
-        $name = 'DucTV44';
+        $name = 'AnhNTPH36206';
 
         $this->renderViewClient('home', [
             'name' => $name

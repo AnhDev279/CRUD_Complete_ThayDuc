@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Anhhh\\CrudGhepGiaoDien\\": "src/"
-        }
+        },
+        "files": [
+            "helper.php"
+        ]
     },
     "authors": [
         {
