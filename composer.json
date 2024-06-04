@@ -11,5 +11,11 @@
             "email": "nguyentheanhayn279@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "doctrine/dbal": "^4.0",
+        "bramus/router": "~1.6",
+        "eftec/bladeone": "^4.13",
+        "vlucas/phpdotenv": "^5.6",
+        "rakit/validation": "^1.4"
+    }
 }
