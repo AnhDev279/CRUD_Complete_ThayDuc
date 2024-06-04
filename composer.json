@@ -1,0 +1,15 @@
+{
+    "name": "anhhh/crud_ghep-giao-dien",
+    "autoload": {
+        "psr-4": {
+            "Anhhh\\CrudGhepGiaoDien\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyễn Thế Anh",
+            "email": "nguyentheanhayn279@gmail.com"
+        }
+    ],
+    "require": {}
+}
